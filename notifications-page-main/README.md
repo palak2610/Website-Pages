@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/palak2610/Website-Pages/tree/main/notifications-page-main)
-- Live Site URL: [Add live site URL here](https://zippy-syrniki-623998.netlify.app/)
+- Solution URL: [](https://github.com/palak2610/Website-Pages/tree/main/notifications-page-main)
+- Live Site URL: [](https://zippy-syrniki-623998.netlify.app/)
 
 ### Built with
 
